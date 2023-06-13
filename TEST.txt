@@ -1,10 +1,6 @@
+1,#genre#
 TVB星河,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571186&extension=ts&play_token=HnxccIWiNo
 翡翠台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153396&extension=ts&play_token=ICdnbP1fWe
-
-
-
-
-1,#genre#
 A3Bikini (720p),https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 AdultIPTV.net Anal (720p),http://cdn.adultiptv.net/anal.m3u8
 AdultIPTV.net Asian (720p),http://cdn.adultiptv.net/asian.m3u8
