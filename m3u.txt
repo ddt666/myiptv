@@ -25,5 +25,3 @@ HUSLER HD,http://de1cdn.plusx.tv:8880/348/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 VIVID RED,http://de1cdn.plusx.tv:8880/361/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 EXXXOTICA,http://de1cdn.plusx.tv:8880/362/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 Passion XXX[1047x576],http://95.87.227.29:8080/PASSIONXXX/index.m3u8
-Japan HDV-ok,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6225/index.m3u8
-Japan HDV2-ok,http://vl05t7es.rostelekom.xyz/iptv/QAX2K7HNCDZF2N/6225/indeindex.m3u8
