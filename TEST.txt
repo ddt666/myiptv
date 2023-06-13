@@ -7,26 +7,6 @@ Miami TV Jenny Live (720p) [Not 24/7],https://59ec5453559f0.streamlock.net/Jenny
 Miami TV México (720p) [Not 24/7],https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
 
 
-Midnight (1080p) [Not 24/7],https://allanf181.github.io/adaptive-streams/streams/kr/Midnight.m3u8
-MyCamTV Anal,http://live.mycamtv.com/anal.m3u8
-MyCamTV Asian,http://live.mycamtv.com/asian.m3u8
-MyCamTV Big Ass,http://live.mycamtv.com/defstream.m3u8
-MyCamTV Big Tits,http://live.mycamtv.com/bigtits.m3u8
-MyCamTV Blonde,http://live.mycamtv.com/blonde.m3u8
-MyCamTV Brunette,http://live.mycamtv.com/brunette.m3u8
-MyCamTV Ebony,http://live.mycamtv.com/medium.m3u8
-MyCamTV Latina,http://live.mycamtv.com/latina.m3u8
-MyCamTV Skinny,http://live.mycamtv.com/arab.m3u8
-MyCamTV Squirt,http://live.mycamtv.com/squirt.m3u8
-MyCamTV White,http://live.mycamtv.com/white.m3u8
-O-la-la [Not 24/7],http://92.242.14.114:4022/udp/225.0.55.234:1234
-Playboy TV Korea (1080p) [Not 24/7],https://allanf181.github.io/adaptive-streams/streams/kr/PlayboyTVKorea.m3u8
-Viki (1080p) [Not 24/7],https://allanf181.github.io/adaptive-streams/streams/kr/Viki.m3u8
-Visit-X TV (720p) [Not 24/7],https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
-XY Max,http://95.87.227.29:8080/XYMAX_FOR_PLATFORM/index.m3u8
-XY Mix,http://95.87.227.29:8080/XYMIX_FOR_PLATFORM/index.m3u8
-XY Plus,http://95.87.227.29:8080/XYPLUS_FOR_PLATFORM/index.m3u8
-
 2,#genre#
 Русская ночь[1024x576],http://46.174.83.66/Russkaya_Noch/video.m3u8
 Extasy 4K[1920x1080],http://213.81.133.133:8080/extasy4k/video.m3u8
