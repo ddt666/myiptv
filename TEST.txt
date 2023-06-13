@@ -5,13 +5,7 @@ TVB星河,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=5711
 Fashion TV Midnight Secrets (1080p),https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 Miami TV Jenny Live (720p) [Not 24/7],https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 Miami TV México (720p) [Not 24/7],https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
-
 Rouge TV,https://edge17.vedge.infomaniak.com/livecast/rougetv.stream/chunklist_w225872110.m3u8
-三本道,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8
-二本道,https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
-一本道,https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8
-
-
 VIVID TV,http://de1cdn.plusx.tv:8880/354/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 PENTHOUSE REALITY TV,http://de1cdn.plusx.tv:8880/352/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 PENTHOUSE TV,http://de1cdn.plusx.tv:8880/353/mono.m3u8?token=b457d9d9a2dd39e2fa3333
