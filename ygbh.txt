@@ -7,7 +7,7 @@ LOOK TV,mitv://generationnexxxt.com:19806/c8aab8c8683c4f35aba0e745535afd41
 松视1,mitv://generationnexxxt.com:19806/878c994ac52a4c50a71914f559b0ddc6
 松视2,mitv://generationnexxxt.com:19806/3bd5b1fec1134ecc856c965a5c0e6ff9
 香蕉,mitv://generationnexxxt.com:19806/cb6c40d4aea546a7b518377e7aee5fb0
-松视3台,mitv://generationnexxxt.com:19806/0045293e14224851a3e930cf0b8a07f8
+松视3,mitv://generationnexxxt.com:19806/0045293e14224851a3e930cf0b8a07f8
 JStar极限,mitv://generationnexxxt.com:19806/a55acb84487242d882b0b53dd110b845
 HAPPY,mitv://generationnexxxt.com:19806/7b02a03ce3094b4e84f883565805f3a4
 K,mitv://generationnexxxt.com:19806/1aec46d506634015a1276c5e4d846976
