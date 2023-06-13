@@ -4,7 +4,12 @@ CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122619
 游戏风云 8M,https://live.goodiptv.club/api/bestv.php?id=yxfy8m/8000000
 CCTV4,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
 CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
-
+热门综艺 8M,https://live.goodiptv.club/api/bestv.php?id=rmzy8m/8000000
+超级体育 8M,https://live.goodiptv.club/api/bestv.php?id=qcsj8m/8000000
+健康养生 8M,https://live.goodiptv.club/api/bestv.php?id=jkys8m/8000000
+百变课堂 8M,https://live.goodiptv.club/api/bestv.php?id=bbkt8m/8000000
+看天下精选 8M,https://live.goodiptv.club/api/bestv.php?id=ktxjx8m/8000000
+华语影院 8M,https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
 
 
 Adult2,#genre#
