@@ -11,3 +11,12 @@ Rouge TV,https://edge17.vedge.infomaniak.com/livecast/rougetv.stream/chunklist_w
 二本道,https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
 一本道,https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8
 
+
+VIVID TV,http://de1cdn.plusx.tv:8880/354/mono.m3u8?token=b457d9d9a2dd39e2fa3333
+PENTHOUSE REALITY TV,http://de1cdn.plusx.tv:8880/352/mono.m3u8?token=b457d9d9a2dd39e2fa3333
+PENTHOUSE TV,http://de1cdn.plusx.tv:8880/353/mono.m3u8?token=b457d9d9a2dd39e2fa3333
+PRIVETP TV,http://de1cdn.plusx.tv:8880/356/mono.m3u8?token=b457d9d9a2dd39e2fa3333
+REDLIGHT HD,http://de1cdn.plusx.tv:8880/358/mono.m3u8?token=b457d9d9a2dd39e2fa3333
+DORCEL TV,http://de1cdn.plusx.tv:8880/359/mono.m3u8?token=b457d9d9a2dd39e2fa3333
+
+
