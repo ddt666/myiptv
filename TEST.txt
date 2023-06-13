@@ -19,7 +19,7 @@ PRIVETP TV,http://de1cdn.plusx.tv:8880/356/mono.m3u8?token=b457d9d9a2dd39e2fa333
 REDLIGHT HD,http://de1cdn.plusx.tv:8880/358/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 DORCEL TV,http://de1cdn.plusx.tv:8880/359/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 
-测试,#genre#
+#EXTM3U
 #EXTINF:-1 ,Unknown_19
 http://de1cdn.plusx.tv:8880/118/mono.m3u8?token=b457d9d9a2dd39e2fa3333
 #EXTINF:-1 ,Unknown_21
